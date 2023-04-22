@@ -6,6 +6,8 @@ Basically, this site displays a random quote of an iconic singer or band of the 
 of the site changes each time a new quote is displayed to a picture of the author. 
 As an extra, the user can share this quote as a tweet using a button that works with Tweeter Intent API.
 
+<b>*Note: Designed for Desktop only. Mobile @medias not implemented yet.*</b>
+
 <img src="https://cdn.discordapp.com/attachments/1082508875292483594/1099184227548921926/image.png" width="1000px"></img>
 
 <h2>Table of Contents</h2>
